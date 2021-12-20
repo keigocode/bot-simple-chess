@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "automata-bot.js": "^2.0.5",
+    "chess-web-api": "^1.1.1",
+    "clayber-handler": "^1.0.4",
+    "env": "^0.0.2",
+    "express": "^4.17.1"
+  }
+}
